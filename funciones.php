@@ -38,7 +38,7 @@ restar();
 
 echo '<br> <br>';
 
-//funciones Pro Pro Pro ...........
+//funciones Pro Pro Pro ----- se necesita modificar las variables globales
 
 
 function restarPro($v1, $v2){
